@@ -28,8 +28,7 @@
     
     <url>
     
-      <loc>https://msadeghsaberian.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+03:30</lastmod>
+      <loc>https://msadeghsaberian.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -37,7 +36,8 @@
     
     <url>
     
-      <loc>https://msadeghsaberian.github.io/categories/</loc>
+      <loc>https://msadeghsaberian.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+03:30</lastmod>
       <priority>0</priority>
     </url>
     
